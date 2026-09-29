@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What are the college working hours?",
+        "answer": "The college working hours are 9 AM to 5 PM, Monday to Friday."
+    },
+    {
+        "question": "What time does college start?",
+        "answer": "The college starts at 9 AM."
+    },
+    {
+        "question": "What time does college end?",
+        "answer": "The college generally ends at 5 PM."
+    },
+    {
+        "question": "Where is the college library?",
+        "answer": "The college library is located on the college campus. Contact the administration for the exact location."
+    },
+    {
+        "question": "What are the library timings?",
+        "answer": "Library timings may vary according to the academic schedule. Please check the college notice board or contact the library."
+    },
+    {
+        "question": "How can I borrow a library book?",
+        "answer": "You can borrow books using your valid student ID card according to the library rules."
+    },
+    {
+        "question": "How can I check my attendance?",
+        "answer": "You can check your attendance through the college student portal or by contacting your department."
+    },
+    {
+        "question": "What is the minimum attendance requirement?",
+        "answer": "The minimum attendance requirement depends on the college's academic regulations. Please contact your department for accurate information."
+    },
+    {
+        "question": "What happens if my attendance is low?",
+        "answer": "If your attendance is low, contact your department or academic coordinator to understand the applicable rules and available options."
+    },
+    {
+        "question": "How can I pay my college fees?",
+        "answer": "You can pay your college fees through the official college payment portal."
+    },
+    {
+        "question": "Can I pay my fees online?",
+        "answer": "Yes, you can generally pay your fees online through the official college payment portal."
+    },
+    {
+        "question": "What should I do if my online fee payment fails?",
+        "answer": "Check your payment details and transaction status. If the problem continues, contact the college accounts department."
+    },
+    {
+        "question": "When are examinations conducted?",
+        "answer": "Examinations are conducted according to the academic calendar released by the college."
+    },
+    {
+        "question": "Where can I find the examination timetable?",
+        "answer": "The examination timetable is generally available through the college portal or notice board."
+    },
+    {
+    "question": "What should I do if I miss an examination? I couldn't attend my exam because of an emergency. Can I take it later?",
+    "answer": "If you miss an examination, contact the examination department immediately and ask about the applicable procedure for a re-examination or special consideration."
+},
+    {
+        "question": "How can I register for examinations?",
+        "answer": "You can register for examinations by following the instructions provided by the examination department or college portal."
+    },
+    {
+        "question": "What courses are available at the college?",
+        "answer": "The college offers undergraduate and postgraduate programs in various fields. Check the official college website for the complete list."
+    },
+    {
+        "question": "How can I apply for an internship?",
+        "answer": "Students can apply for internships through the college placement cell, company websites, LinkedIn, and internship platforms."
+    },
+    {
+        "question": "Where can I find internship opportunities?",
+        "answer": "You can find internship opportunities through the placement cell, LinkedIn, company websites, and internship platforms."
+    },
+    {
+        "question": "Does the college provide placement assistance?",
+        "answer": "Placement assistance may be provided through the college placement cell. Contact the placement department for details."
+    },
+    {
+        "question": "How can I prepare for campus placements?",
+        "answer": "You can prepare for campus placements by improving your technical skills, practicing aptitude questions, preparing for interviews, and creating a good resume."
+    },
+    {
+        "question": "How can I get my student ID card?",
+        "answer": "Contact the administration office to request your student ID card."
+    },
+    {
+        "question": "What should I do if I lose my student ID card?",
+        "answer": "Report the lost ID card to the administration office and ask about the replacement procedure."
+    },
+    {
+        "question": "Where can I find the college timetable?",
+        "answer": "The latest timetable is generally available through the college portal or notice board."
+    },
+    {
+        "question": "Where can I find study materials?",
+        "answer": "Study materials can be obtained from faculty members, the college portal, or the learning management system."
+    },
+    {
+        "question": "How can I contact my faculty member?",
+        "answer": "You can contact your faculty member through official college communication channels or during their designated office hours."
+    },
+    {
+        "question": "How can I contact the college administration?",
+        "answer": "You can contact the college administration through the official college email address, phone number, or administration office."
+    },
+    {
+        "question": "How can I register for college events?",
+        "answer": "You can register for college events through official registration forms or announcements shared by the college."
+    },
+    {
+        "question": "Who should I contact for technical problems?",
+        "answer": "For technical problems, contact the college IT support team or the appropriate department."
+    },
+    {
+        "question": "Where can I find announcements about college activities?",
+        "answer": "You can find announcements on the college notice board, student portal, official website, or official communication groups."
+    }
+]
